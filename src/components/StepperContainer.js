@@ -7,7 +7,7 @@ const StepperContainer = () => {
     <div>
       <AppBar position='fixed'>
         <Toolbar>
-          <Typography variant='h6'>CRICKET SCORE</Typography>
+          <Typography variant='h6'>CRICKET LIVE SCORE</Typography>
         </Toolbar>
       </AppBar>
       <Container>
